@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RecipeDefs/Recipes_PolarisSurgeries.xml-->
+                              <!-- make cartridge -->
+<MakePolarisCartridgeSurgery.label>make cartridge</MakePolarisCartridgeSurgery.label>
+                                    <!-- make cartridge -->
+<MakePolarisCartridgeSurgery.description>make cartridge</MakePolarisCartridgeSurgery.description>
+                                  <!-- making cartridge. -->
+<MakePolarisCartridgeSurgery.jobString>making cartridge.</MakePolarisCartridgeSurgery.jobString>
+                           <!-- install combat chip -->
+<InstallPolarisCombatChip.label>install combat chip</InstallPolarisCombatChip.label>
+                                 <!-- install combat chip. -->
+<InstallPolarisCombatChip.description>install combat chip.</InstallPolarisCombatChip.description>
+                               <!-- installing combat chip. -->
+<InstallPolarisCombatChip.jobString>installing combat chip.</InstallPolarisCombatChip.jobString>
+                               <!-- install virtual net chip -->
+<InstallPolarisVirtualNetChip.label>install virtual net chip</InstallPolarisVirtualNetChip.label>
+                                     <!-- install virtual net chip. -->
+<InstallPolarisVirtualNetChip.description>install virtual net chip.</InstallPolarisVirtualNetChip.description>
+                                   <!-- installing virtual net chip. -->
+<InstallPolarisVirtualNetChip.jobString>installing virtual net chip.</InstallPolarisVirtualNetChip.jobString>
+                          <!-- install psionwire -->
+<InstallPolarisPsionwire.label>install psionwire</InstallPolarisPsionwire.label>
+                                <!-- install psionwire. -->
+<InstallPolarisPsionwire.description>install psionwire.</InstallPolarisPsionwire.description>
+                              <!-- installing psionwire. -->
+<InstallPolarisPsionwire.jobString>installing psionwire.</InstallPolarisPsionwire.jobString>
+                   <!-- cure scars -->
+<PolarisCureScars.label>cure scars</PolarisCureScars.label>
+                         <!-- cure scars. -->
+<PolarisCureScars.description>cure scars.</PolarisCureScars.description>
+                       <!-- curing scars. -->
+<PolarisCureScars.jobString>curing scars.</PolarisCureScars.jobString>
+                                <!-- restore -->
+<PolarisRestoreMissingBodyPart.label>restore</PolarisRestoreMissingBodyPart.label>
+                                      <!-- restore missing body part. -->
+<PolarisRestoreMissingBodyPart.description>restore missing body part.</PolarisRestoreMissingBodyPart.description>
+                                    <!-- restoring. -->
+<PolarisRestoreMissingBodyPart.jobString>restoring.</PolarisRestoreMissingBodyPart.jobString>
+                       <!-- remove implant -->
+<PolarisRemoveImplant.label>remove implant</PolarisRemoveImplant.label>
+                             <!-- remove all implants in the same body part. -->
+<PolarisRemoveImplant.description>remove all implants in the same body part.</PolarisRemoveImplant.description>
+                           <!-- removing implants. -->
+<PolarisRemoveImplant.jobString>removing implants.</PolarisRemoveImplant.jobString>
+                            <!-- trans gender -->
+<PolarisTransGenderSurgery.label>trans gender</PolarisTransGenderSurgery.label>
+                                  <!-- trans gender. -->
+<PolarisTransGenderSurgery.description>trans gender.</PolarisTransGenderSurgery.description>
+                                <!-- doing trans gender surgery. -->
+<PolarisTransGenderSurgery.jobString>doing trans gender surgery.</PolarisTransGenderSurgery.jobString>
+                             <!-- change age -->
+<PolarisSurgeryChangeBioAge.label>change age</PolarisSurgeryChangeBioAge.label>
+                                   <!-- change age -->
+<PolarisSurgeryChangeBioAge.description>change age</PolarisSurgeryChangeBioAge.description>
+                                 <!-- doing age Decrease surgery -->
+<PolarisSurgeryChangeBioAge.jobString>doing age Decrease surgery</PolarisSurgeryChangeBioAge.jobString>
+                                          <!-- administer traitreleaser mech serum -->
+<PolarisAdministerMechSerumTraitreleaser.label>administer traitreleaser mech serum</PolarisAdministerMechSerumTraitreleaser.label>
+                                                <!-- Administer a traitreleaser mech serum. -->
+<PolarisAdministerMechSerumTraitreleaser.description>Administer a traitreleaser mech serum.</PolarisAdministerMechSerumTraitreleaser.description>
+                                              <!-- Administering traitreleaser mech serum. -->
+<PolarisAdministerMechSerumTraitreleaser.jobString>Administering traitreleaser mech serum.</PolarisAdministerMechSerumTraitreleaser.jobString>
+                                     <!-- administer ideo code mech serum -->
+<PolarisAdministerMechSerumIdeoCode.label>administer ideo code mech serum</PolarisAdministerMechSerumIdeoCode.label>
+                                           <!-- Administer a ideo code mech serum. -->
+<PolarisAdministerMechSerumIdeoCode.description>Administer a ideo code mech serum.</PolarisAdministerMechSerumIdeoCode.description>
+                                         <!-- Administering ideo code mech serum. -->
+<PolarisAdministerMechSerumIdeoCode.jobString>Administering ideo code mech serum.</PolarisAdministerMechSerumIdeoCode.jobString>
+                        <!-- extract ability -->
+<PolarisExtractAbility.label>extract ability</PolarisExtractAbility.label>
+                              <!-- Use a psytrainer to extract ability on pawn's brain. -->
+<PolarisExtractAbility.description>Use a psytrainer to extract ability on pawn's brain.</PolarisExtractAbility.description>
+                            <!-- extracting ability. -->
+<PolarisExtractAbility.jobString>extracting ability.</PolarisExtractAbility.jobString>
+
+</LanguageData>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/Hediffs_CombatChip.xml-->
+                              <!-- combat chip (not active) -->
+<PolarisCombatChip_NotActive.label>combat chip (not active)</PolarisCombatChip_NotActive.label>
+                                  <!-- a combat chip -->
+<PolarisCombatChip_NotActive.labelNoun>a combat chip</PolarisCombatChip_NotActive.labelNoun>
+                                    <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_NotActive.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_NotActive.description>
+                             <!-- combat chip (currency) -->
+<PolarisCombatChip_Currency.label>combat chip (currency)</PolarisCombatChip_Currency.label>
+                                 <!-- a combat chip -->
+<PolarisCombatChip_Currency.labelNoun>a combat chip</PolarisCombatChip_Currency.labelNoun>
+                                   <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_Currency.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_Currency.description>
+                           <!-- combat chip (sniper) -->
+<PolarisCombatChip_Sniper.label>combat chip (sniper)</PolarisCombatChip_Sniper.label>
+                               <!-- a combat chip -->
+<PolarisCombatChip_Sniper.labelNoun>a combat chip</PolarisCombatChip_Sniper.labelNoun>
+                                 <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_Sniper.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_Sniper.description>
+                            <!-- combat chip (scouter) -->
+<PolarisCombatChip_Scouter.label>combat chip (scouter)</PolarisCombatChip_Scouter.label>
+                                <!-- a combat chip -->
+<PolarisCombatChip_Scouter.labelNoun>a combat chip</PolarisCombatChip_Scouter.labelNoun>
+                                  <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_Scouter.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_Scouter.description>
+                            <!-- combat chip (medical) -->
+<PolarisCombatChip_Medical.label>combat chip (medical)</PolarisCombatChip_Medical.label>
+                                <!-- a combat chip -->
+<PolarisCombatChip_Medical.labelNoun>a combat chip</PolarisCombatChip_Medical.labelNoun>
+                                  <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_Medical.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_Medical.description>
+                               <!-- combat chip (resistance) -->
+<PolarisCombatChip_Resistance.label>combat chip (resistance)</PolarisCombatChip_Resistance.label>
+                                   <!-- a combat chip -->
+<PolarisCombatChip_Resistance.labelNoun>a combat chip</PolarisCombatChip_Resistance.labelNoun>
+                                     <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_Resistance.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_Resistance.description>
+                          <!-- combat chip (charm) -->
+<PolarisCombatChip_Charm.label>combat chip (charm)</PolarisCombatChip_Charm.label>
+                              <!-- a combat chip -->
+<PolarisCombatChip_Charm.labelNoun>a combat chip</PolarisCombatChip_Charm.labelNoun>
+                                <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_Charm.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_Charm.description>
+                                <!-- combat chip (inspiration) -->
+<PolarisCombatChip_Inspiration.label>combat chip (inspiration)</PolarisCombatChip_Inspiration.label>
+                                    <!-- a combat chip -->
+<PolarisCombatChip_Inspiration.labelNoun>a combat chip</PolarisCombatChip_Inspiration.labelNoun>
+                                      <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_Inspiration.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_Inspiration.description>
+                             <!-- combat chip (assassin) -->
+<PolarisCombatChip_Assassin.label>combat chip (assassin)</PolarisCombatChip_Assassin.label>
+                                 <!-- a combat chip -->
+<PolarisCombatChip_Assassin.labelNoun>a combat chip</PolarisCombatChip_Assassin.labelNoun>
+                                   <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
+<PolarisCombatChip_Assassin.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip_Assassin.description>
+                                                                            <!-- Optical camouflage -->
+<PolarisCombatChip_Assassin.comps.Polarisbloc.HediffComp_ToggleHediff.gizmoLabel>Optical camouflage</PolarisCombatChip_Assassin.comps.Polarisbloc.HediffComp_ToggleHediff.gizmoLabel>
+                                                                           <!-- This will toggle the user's invisibility. -->
+<PolarisCombatChip_Assassin.comps.Polarisbloc.HediffComp_ToggleHediff.gizmoDesc>This will toggle the user's invisibility.</PolarisCombatChip_Assassin.comps.Polarisbloc.HediffComp_ToggleHediff.gizmoDesc>
+                                          <!-- optical camouflage -->
+<PolarisCombatChip_Assassin_Invisibility.label>optical camouflage</PolarisCombatChip_Assassin_Invisibility.label>
+                              <!-- combat chip (psycaster) -->
+<PolarisCombatChip_Psycaster.label>combat chip (psycaster)</PolarisCombatChip_Psycaster.label>
+                                  <!-- a combat chip -->
+<PolarisCombatChip_Psycaster.labelNoun>a combat chip</PolarisCombatChip_Psycaster.labelNoun>
+                                    <!-- A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.
+
+This one will let you out of psychic hangover. -->
+<PolarisCombatChip_Psycaster.description>A universal tactical chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.\n\nThis one will let you out of psychic hangover.</PolarisCombatChip_Psycaster.description>
+
+</LanguageData>

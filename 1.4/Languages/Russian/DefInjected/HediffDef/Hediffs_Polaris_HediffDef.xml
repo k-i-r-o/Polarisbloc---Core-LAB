@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/Hediffs_Polaris.xml-->
+                          <!-- cartridge -->
+<Hediff_PloarisCartridge.label>cartridge</Hediff_PloarisCartridge.label>
+                                <!-- The cartridge can be worn by a pawn and protects the wearer from a certain death. The wearer will be resurrected immediatly upon death. Administered to a corpse, the cartridge will repair and kickstart the body back to life.
+
+So, is life equal? Is it really good to exchange one's life for another person's life? -->
+<Hediff_PloarisCartridge.description>The cartridge can be worn by a pawn and protects the wearer from a certain death. The wearer will be resurrected immediatly upon death. Administered to a corpse, the cartridge will repair and kickstart the body back to life.\n\nSo, is life equal? Is it really good to exchange one's life for another person's life?</Hediff_PloarisCartridge.description>
+                       <!-- potent healing potion -->
+<PolarisHealingPotion.label>potent healing potion</PolarisHealingPotion.label>
+                             <!-- A quick recovery and healing potion that automatically heals wounds. The effect of this potion are very powerful. -->
+<PolarisHealingPotion.description>A quick recovery and healing potion that automatically heals wounds. The effect of this potion are very powerful.</PolarisHealingPotion.description>
+                    <!-- combined antibiotic -->
+<PolarisAntibiotic.label>combined antibiotic</PolarisAntibiotic.label>
+                          <!-- A combination of multiple antibiotics that can cure most common diseases. -->
+<PolarisAntibiotic.description>A combination of multiple antibiotics that can cure most common diseases.</PolarisAntibiotic.description>
+                            <!-- receptor antagonist -->
+<PolarisReceptorAntagonist.label>receptor antagonist</PolarisReceptorAntagonist.label>
+                                  <!-- The receptor antagonist is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time. -->
+<PolarisReceptorAntagonist.description>The receptor antagonist is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time.</PolarisReceptorAntagonist.description>
+                        <!-- virtual net chip -->
+<PolarisVirtualNetChip.label>virtual net chip</PolarisVirtualNetChip.label>
+                            <!-- a virtual net chip -->
+<PolarisVirtualNetChip.labelNoun>a virtual net chip</PolarisVirtualNetChip.labelNoun>
+                              <!-- A chip connected to a Virtual Network that can be used for entertainment whenever needed. Moreover, it will calm down the user if they ever have a mental breakdown. -->
+<PolarisVirtualNetChip.description>A chip connected to a Virtual Network that can be used for entertainment whenever needed. Moreover, it will calm down the user if they ever have a mental breakdown.</PolarisVirtualNetChip.description>
+                   <!-- psionwire -->
+<PolarisPsionwire.label>psionwire</PolarisPsionwire.label>
+                       <!-- a psionwire -->
+<PolarisPsionwire.labelNoun>a psionwire</PolarisPsionwire.labelNoun>
+                         <!-- A chip capable of stimulating psionic abilities. Using this chip can enhance biological consciousness and fire resistance. -->
+<PolarisPsionwire.description>A chip capable of stimulating psionic abilities. Using this chip can enhance biological consciousness and fire resistance.</PolarisPsionwire.description>
+
+</LanguageData>

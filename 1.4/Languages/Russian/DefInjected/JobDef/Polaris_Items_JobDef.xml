@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs/Polaris_Items.xml-->
+                                       <!-- using caller. -->
+<UsePolarisOrbitalTraderCaller.reportString>using caller.</UsePolarisOrbitalTraderCaller.reportString>
+                                 <!-- using traitreleaser. -->
+<UsePolarisTraitreleaser.reportString>using traitreleaser.</UsePolarisTraitreleaser.reportString>
+                                <!-- using momery rester. -->
+<UsePolarisMomeryRester.reportString>using momery rester.</UsePolarisMomeryRester.reportString>
+                       <!-- decoding TargetA. -->
+<PolarisDecode.reportString>decoding TargetA.</PolarisDecode.reportString>
+
+</LanguageData>

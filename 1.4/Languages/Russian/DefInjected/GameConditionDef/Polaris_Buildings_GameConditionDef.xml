@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs/Polaris_Buildings.xml-->
+                        <!-- repairer nano haze -->
+<PolarisNanoRepairHaze.label>repairer nano haze</PolarisNanoRepairHaze.label>
+                              <!-- The air is scattered with tiny nanomachines that automatically repair damaged objects. -->
+<PolarisNanoRepairHaze.description>The air is scattered with tiny nanomachines that automatically repair damaged objects.</PolarisNanoRepairHaze.description>
+                             <!-- The nanomechanical haze has disappeared. -->
+<PolarisNanoRepairHaze.endMessage>The nanomechanical haze has disappeared.</PolarisNanoRepairHaze.endMessage>
+                             <!-- The air is scattered with tiny nanomachines that automatically repair damaged objects. -->
+<PolarisNanoRepairHaze.letterText>The air is scattered with tiny nanomachines that automatically repair damaged objects.</PolarisNanoRepairHaze.letterText>
+
+</LanguageData>

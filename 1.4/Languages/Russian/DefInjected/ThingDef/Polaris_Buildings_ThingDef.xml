@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs/Polaris_Buildings.xml-->
+                     <!-- Machinoid ship reactor -->
+<PolarisShipReactor.label>Machinoid ship reactor</PolarisShipReactor.label>
+                           <!-- Machinoid ship reactor -->
+<PolarisShipReactor.description>Machinoid ship reactor</PolarisShipReactor.description>
+                    <!-- thermostat -->
+<PolarisThermostat.label>thermostat</PolarisThermostat.label>
+                          <!-- A device that can control the temperature near the target value. -->
+<PolarisThermostat.description>A device that can control the temperature near the target value.</PolarisThermostat.description>
+                      <!-- mending shelf -->
+<PolarisMendingShelf.label>mending shelf</PolarisMendingShelf.label>
+                            <!-- A shelf for storing miscellaneous items. Items stored in this won't deteriorate, even if outside. In addition, the items will be mended if it has fuel. -->
+<PolarisMendingShelf.description>A shelf for storing miscellaneous items. Items stored in this won't deteriorate, even if outside. In addition, the items will be mended if it has fuel.</PolarisMendingShelf.description>
+                                                       <!-- Cannot mend: Needs more cloth -->
+<PolarisMendingShelf.comps.Comp_Refuelable.outOfFuelMessage>Cannot mend: Needs more cloth</PolarisMendingShelf.comps.Comp_Refuelable.outOfFuelMessage>
+                                                <!-- Cloth -->
+<PolarisMendingShelf.comps.Comp_Refuelable.fuelLabel>Cloth</PolarisMendingShelf.comps.Comp_Refuelable.fuelLabel>
+                                                     <!-- Cloth: -->
+<PolarisMendingShelf.comps.Comp_Refuelable.fuelGizmoLabel>Cloth:</PolarisMendingShelf.comps.Comp_Refuelable.fuelGizmoLabel>
+                                 <!-- repairer nano haze generator -->
+<PolarisNanoRepairHazeGenerator.label>repairer nano haze generator</PolarisNanoRepairHazeGenerator.label>
+                                       <!-- A device that generates special nanomachines. It creates nanobots that can self-proliferate and actively repair damaged objects nearby. -->
+<PolarisNanoRepairHazeGenerator.description>A device that generates special nanomachines. It creates nanobots that can self-proliferate and actively repair damaged objects nearby.</PolarisNanoRepairHazeGenerator.description>
+
+</LanguageData>

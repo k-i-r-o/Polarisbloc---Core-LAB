@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RecipeDefs/Recipes_BladelinkTraitAdjust.xml-->
+                        <!-- add weapon trait -->
+<PolarisAddWeaponTrait.label>add weapon trait</PolarisAddWeaponTrait.label>
+                              <!-- Add a weapon trait to persona weapon. -->
+<PolarisAddWeaponTrait.description>Add a weapon trait to persona weapon.</PolarisAddWeaponTrait.description>
+                            <!-- Adjusting bladelink weapon. -->
+<PolarisAddWeaponTrait.jobString>Adjusting bladelink weapon.</PolarisAddWeaponTrait.jobString>
+                           <!-- remove weapon trait -->
+<PolarisRemoveWeaponTrait.label>remove weapon trait</PolarisRemoveWeaponTrait.label>
+                                 <!-- Remove a weapon trait on persona weapon. -->
+<PolarisRemoveWeaponTrait.description>Remove a weapon trait on persona weapon.</PolarisRemoveWeaponTrait.description>
+                               <!-- Adjusting bladelink weapon. -->
+<PolarisRemoveWeaponTrait.jobString>Adjusting bladelink weapon.</PolarisRemoveWeaponTrait.jobString>
+
+</LanguageData>
