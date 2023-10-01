@@ -2,34 +2,34 @@
 <LanguageData>
 <!--/Defs/HediffDefs/Hediffs_Polaris.xml-->
                           <!-- cartridge -->
-<Hediff_PloarisCartridge.label>cartridge</Hediff_PloarisCartridge.label>
+<Hediff_PloarisCartridge.label>картридж</Hediff_PloarisCartridge.label>
                                 <!-- The cartridge can be worn by a pawn and protects the wearer from a certain death. The wearer will be resurrected immediatly upon death. Administered to a corpse, the cartridge will repair and kickstart the body back to life.
 
 So, is life equal? Is it really good to exchange one's life for another person's life? -->
-<Hediff_PloarisCartridge.description>The cartridge can be worn by a pawn and protects the wearer from a certain death. The wearer will be resurrected immediatly upon death. Administered to a corpse, the cartridge will repair and kickstart the body back to life.\n\nSo, is life equal? Is it really good to exchange one's life for another person's life?</Hediff_PloarisCartridge.description>
+<Hediff_PloarisCartridge.description>Картридж может быть надет пешкой и защищает владельца от неминуемой смерти. Владелец будет воскрешен сразу же после смерти. Введенный в организм трупа, картридж восстановит организм и вернет его к жизни.\n\n Итак, равна ли жизнь? Действительно ли хорошо обменивать свою жизнь на жизнь другого человека?</Hediff_PloarisCartridge.description>
                        <!-- potent healing potion -->
-<PolarisHealingPotion.label>potent healing potion</PolarisHealingPotion.label>
+<PolarisHealingPotion.label>мощное целебное зелье</PolarisHealingPotion.label>
                              <!-- A quick recovery and healing potion that automatically heals wounds. The effect of this potion are very powerful. -->
-<PolarisHealingPotion.description>A quick recovery and healing potion that automatically heals wounds. The effect of this potion are very powerful.</PolarisHealingPotion.description>
+<PolarisHealingPotion.description>Зелье быстрого восстановления и заживления, которое автоматически заживляет раны. Эффект от этого зелья очень мощный.</PolarisHealingPotion.description>
                     <!-- combined antibiotic -->
-<PolarisAntibiotic.label>combined antibiotic</PolarisAntibiotic.label>
+<PolarisAntibiotic.label>комбинированные антибиотики</PolarisAntibiotic.label>
                           <!-- A combination of multiple antibiotics that can cure most common diseases. -->
-<PolarisAntibiotic.description>A combination of multiple antibiotics that can cure most common diseases.</PolarisAntibiotic.description>
+<PolarisAntibiotic.description>Комбинация нескольких антибиотиков, которые могут вылечить большинство распространенных заболеваний.</PolarisAntibiotic.description>
                             <!-- receptor antagonist -->
-<PolarisReceptorAntagonist.label>receptor antagonist</PolarisReceptorAntagonist.label>
+<PolarisReceptorAntagonist.label>блокиравтор рецепторов</PolarisReceptorAntagonist.label>
                                   <!-- The receptor antagonist is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time. -->
-<PolarisReceptorAntagonist.description>The receptor antagonist is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time.</PolarisReceptorAntagonist.description>
+<PolarisReceptorAntagonist.description>Блокиравтор рецепторов - это лекарственное средство, которое блокирует потребность в препаратах, связываясь с любым лекарственным рецептором и блокируя его, а не активируя его подобно наркотику. Таким образом, этот препарат удовлетворит химические потребности и в то же время облегчит наркотическую зависимость.</PolarisReceptorAntagonist.description>
                         <!-- virtual net chip -->
-<PolarisVirtualNetChip.label>virtual net chip</PolarisVirtualNetChip.label>
+<PolarisVirtualNetChip.label>чип Виртуальной Сети</PolarisVirtualNetChip.label>
                             <!-- a virtual net chip -->
-<PolarisVirtualNetChip.labelNoun>a virtual net chip</PolarisVirtualNetChip.labelNoun>
+<PolarisVirtualNetChip.labelNoun>чип Виртуальной Сети</PolarisVirtualNetChip.labelNoun>
                               <!-- A chip connected to a Virtual Network that can be used for entertainment whenever needed. Moreover, it will calm down the user if they ever have a mental breakdown. -->
-<PolarisVirtualNetChip.description>A chip connected to a Virtual Network that can be used for entertainment whenever needed. Moreover, it will calm down the user if they ever have a mental breakdown.</PolarisVirtualNetChip.description>
+<PolarisVirtualNetChip.description>Чип, подключенный к виртуальной сети, который при необходимости можно использовать для развлечений. Более того, это успокоит пользователя, если у него когда-нибудь случится психический срыв.</PolarisVirtualNetChip.description>
                    <!-- psionwire -->
-<PolarisPsionwire.label>psionwire</PolarisPsionwire.label>
+<PolarisPsionwire.label>псионический чип</PolarisPsionwire.label>
                        <!-- a psionwire -->
-<PolarisPsionwire.labelNoun>a psionwire</PolarisPsionwire.labelNoun>
+<PolarisPsionwire.labelNoun>псионический чип</PolarisPsionwire.labelNoun>
                          <!-- A chip capable of stimulating psionic abilities. Using this chip can enhance biological consciousness and fire resistance. -->
-<PolarisPsionwire.description>A chip capable of stimulating psionic abilities. Using this chip can enhance biological consciousness and fire resistance.</PolarisPsionwire.description>
+<PolarisPsionwire.description>Чип, способный стимулировать псионические способности. Использование этого чипа может повысить биологическое сознание и огнестойкость.</PolarisPsionwire.description>
 
 </LanguageData>

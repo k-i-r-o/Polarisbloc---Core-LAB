@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/ThingDefs/Polaris_Items.xml-->
                                        <!-- using caller. -->
-<UsePolarisOrbitalTraderCaller.reportString>using caller.</UsePolarisOrbitalTraderCaller.reportString>
+<UsePolarisOrbitalTraderCaller.reportString>Используйте передатчик координат.</UsePolarisOrbitalTraderCaller.reportString>
                                  <!-- using traitreleaser. -->
-<UsePolarisTraitreleaser.reportString>using traitreleaser.</UsePolarisTraitreleaser.reportString>
+<UsePolarisTraitreleaser.reportString>Используйте наномашину коррекции личности.</UsePolarisTraitreleaser.reportString>
                                 <!-- using momery rester. -->
-<UsePolarisMomeryRester.reportString>using momery rester.</UsePolarisMomeryRester.reportString>
+<UsePolarisMomeryRester.reportString>Используйте устройство сброса памяти.</UsePolarisMomeryRester.reportString>
                        <!-- decoding TargetA. -->
-<PolarisDecode.reportString>decoding TargetA.</PolarisDecode.reportString>
+<PolarisDecode.reportString>расшифровка TargetA.</PolarisDecode.reportString>
 
 </LanguageData>
