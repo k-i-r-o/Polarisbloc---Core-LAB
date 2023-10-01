@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Cartridge-->
+  <PolarisMessageSomeoneResurrected>{0} спас {1} от смерти </PolarisMessageSomeoneResurrected>
+  <PolarisMessageFailedMakeCartridge>{0} не может быть выполнен, если 60 не нравится {1} </PolarisMessageFailedMakeCartridge>
+  <PolarisFoundNoResearchProject>Иследования связанные с этим предметом уже изучены. </PolarisFoundNoResearchProject>
+  <!--CombatChip-->
+  <PolarisConvertCombatChipTitle>Выберете режим работы боевого чипа</PolarisConvertCombatChipTitle>
+  <PolarisConvertCombatChipDESC>Пожалуйста, укажите режим работы боевого чипа в одном из следующих пунктах </PolarisConvertCombatChipDESC>
+  <PolarisMessageFailedConvertCombatChip>Чтобы использовать конвертер, необходимо перенести боевой чип на {0}.</PolarisMessageFailedConvertCombatChip>
+  <!--orbital trader caller-->
+  <PolarisOrbitalTraderCouldNotArrival>На орбите планеты нет места для размещения новых торговых судов.</PolarisOrbitalTraderCouldNotArrival>
+  <!--heal old wounds-->
+  <PolarisMessageSuccessfullyRemovedHediffIsOld>{0} успешно обработано {2} из {1}.</PolarisMessageSuccessfullyRemovedHediffIsOld>
+  <!--age-->
+  <PolarisMessageSuccessfullyAgeDecrease>Возраст {0} уменьшился на {1}.</PolarisMessageSuccessfullyAgeDecrease>
+  <!--Traitreleaser-->
+  <PolarisTraitreleaserEffectDESC>Вы можете использовать это, чтобы добавить одну случайную черту характера. \nВ качестве альтернативы, одна из черт характера может быть удалена и записанна в наномашину корекции личности.</PolarisTraitreleaserEffectDESC>
+  <PolarisTraitreleaserAddTraitOption>Добавить {0}</PolarisTraitreleaserAddTraitOption>
+  <PolarisTraitreleaserAlreadyHadTrait>Нельзя добавить уже имеющуюся черту характера</PolarisTraitreleaserAlreadyHadTrait>
+  <PolarisTraitreleaserHasNoEnoughSlots></PolarisTraitreleaserHasNoEnoughSlots>
+  <PolarisTraitreleaserRemoveTraitOption>Записать черту характера (Количество доступных раз: {0}）</PolarisTraitreleaserRemoveTraitOption>
+  <PolarisTraitreleaserChoseRemoveTrait>Выбранная вами черта характера будет удалена у пользователя.</PolarisTraitreleaserChoseRemoveTrait>
+  <PolarisTraitreleaserUsedRemovedTrait>{0} удалил черту характера {1}</PolarisTraitreleaserUsedRemovedTrait>
+  <PolarisTraitreleaserUsedReplaceConflitTraits>Чтобы получить {1}, {0} отказался от следующих черт характера: {2}. </PolarisTraitreleaserUsedReplaceConflitTraits>
+  <PolarisTraitreleaserUsedAddTrait>{0} получил черту характера {1}. </PolarisTraitreleaserUsedAddTrait>
+  <PolarisTraitreleaserTraitConflictingTraits>Эти черта характера несовместимы: {0} </PolarisTraitreleaserTraitConflictingTraits>
+  <PolarisTraitreleaserTraitDisabledWorkTypes>{0} не может</PolarisTraitreleaserTraitDisabledWorkTypes>
+  <PolarisTraitreleaserUsedbyHasNullTraits>Черты характера этого поселенца не могут быть изменены </PolarisTraitreleaserUsedbyHasNullTraits>
+  <!--momery rester-->
+  <PolarisMomeryResterHaveNoAvaliableOption>Нет доступных опций. </PolarisMomeryResterHaveNoAvaliableOption>
+  <PolarisMomeryResterStoryDisabledWorkTypes>{0}Не может </PolarisMomeryResterStoryDisabledWorkTypes>
+  <PolarisMomeryResterChildhoodModeActiveLabel>Режим: Детство</PolarisMomeryResterChildhoodModeActiveLabel>
+  <PolarisMomeryResterChildhoodModeActiveDesc>В этом режиме вы можете изменить воспоминания о детстве пользователя. Вы можете переключиться в режим смены воспоминаний о зрелости, нажав кнопку .</PolarisMomeryResterChildhoodModeActiveDesc>
+  <PolarisMomeryResterAdulthoodModeActiveLabel>Режим: Зрелость</PolarisMomeryResterAdulthoodModeActiveLabel>
+  <PolarisMomeryResterAdulthoodModeActiveDesc>В этом режиме вы можете изменить воспоминания о зрелости пользователя. Вы можете переключиться в режим смены воспоминаний о детстве, нажав кнопку .</PolarisMomeryResterAdulthoodModeActiveDesc>
+  <PolarisMomeryResterStorySuccessfullyChanged>Для {0} воспоминания о {1} были изменены на {2}.</PolarisMomeryResterStorySuccessfullyChanged>
+  <PolarisMomeryResterHaveNoAvaliableStory>{0} не имеет прошлого, которое можно изменить.</PolarisMomeryResterHaveNoAvaliableStory>
+  <PolarisMomeryResterUnknownError>Произошла неизвестная ошибка</PolarisMomeryResterUnknownError>
+  <!--curer-->
+  <PolarisCurerApplyToHumanLabel>Применимо к поселенцам</PolarisCurerApplyToHumanLabel>
+  <PolarisCurerApplyToHumanDESC>При активации целитель автоматически лечит раны поселенцев.</PolarisCurerApplyToHumanDESC>
+  <!--restorer-->
+  <PolarisRestorerIngest>{0} изменил свое прошлое</PolarisRestorerIngest>
+  <!--net chip-->
+  <PolarisForceCalmDown>{0} успокоился из-за эффекта {1}. </PolarisForceCalmDown>
+  <!--void key-->
+  <PolarisVoidKeyLinkedTo>Связь образовалась</PolarisVoidKeyLinkedTo>
+  <PolarisVoidKeyTryLinkGizmoLabel>Назначение подключения ...</PolarisVoidKeyTryLinkGizmoLabel>
+  <PolarisVoidKeyTryLinkGizmoDesc>Мы собираем информацию о пропавших без вести поселенцах и животных. </PolarisVoidKeyTryLinkGizmoDesc>
+  <PolarisVoidKeyWindowTitle>Ключ VOID</PolarisVoidKeyWindowTitle>
+  <PolarisVoidKeyWindowInformation>Вы можете выбирать и оживлять людей и животных, когда-то поселившихся в колонии.</PolarisVoidKeyWindowInformation>
+  <PolarisVoidKeyPullVoidPawnData>Перенесите информацию об этом существе в данные {0}.</PolarisVoidKeyPullVoidPawnData>
+  <PolarisVoidKeyPullDataDone>Получены данные для {0}. </PolarisVoidKeyPullDataDone>
+  <PolarisVoidKeyFoundNoColonist>Цель не найдена.</PolarisVoidKeyFoundNoColonist>
+  <PolarisVoidKeyITabChoosePawn>Назначение подключения ...</PolarisVoidKeyITabChoosePawn>
+  <PolarisVoidKeyITabPawnInfo>Дополнительная информация</PolarisVoidKeyITabPawnInfo>
+
+</LanguageData>
