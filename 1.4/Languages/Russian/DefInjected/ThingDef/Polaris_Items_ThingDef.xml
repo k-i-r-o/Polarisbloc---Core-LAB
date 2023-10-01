@@ -8,75 +8,75 @@
 So, is life equal? Is it really good to exchange one's life for another person's life? -->
 <PolarisCartridge.description>Картридж может быть надет пешкой и защищает владельца от неминуемой смерти. Владелец будет воскрешен сразу же после смерти. Введенный в организм трупа, картридж восстановит организм и вернет его к жизни.\n\n Итак, равна ли жизнь? Действительно ли хорошо обменивать свою жизнь на жизнь другого человека?</PolarisCartridge.description>
                                         <!-- Use cartridge -->
-<PolarisCartridge.comps.Comp_Usable.useLabel>Use cartridge</PolarisCartridge.comps.Comp_Usable.useLabel>
+<PolarisCartridge.comps.Comp_Usable.useLabel>Использовать картридж </PolarisCartridge.comps.Comp_Usable.useLabel>
                         <!-- Bondorudo's diary -->
-<PolarisBondorudoDiary.label>Bondorudo's diary</PolarisBondorudoDiary.label>
+<PolarisBondorudoDiary.label>дневник Бондорудо</PolarisBondorudoDiary.label>
                               <!-- "It is ... terrific..." -->
-<PolarisBondorudoDiary.description>"It is ... terrific..."</PolarisBondorudoDiary.description>
+<PolarisBondorudoDiary.description>"Это... потрясающе..."</PolarisBondorudoDiary.description>
                                              <!-- Unscramble Dawn's diary -->
-<PolarisBondorudoDiary.comps.Comp_Usable.useLabel>Unscramble Dawn's diary</PolarisBondorudoDiary.comps.Comp_Usable.useLabel>
+<PolarisBondorudoDiary.comps.Comp_Usable.useLabel>Расшифруй дневник</PolarisBondorudoDiary.comps.Comp_Usable.useLabel>
                     <!-- white flute -->
-<PolarisWhiteFlute.label>white flute</PolarisWhiteFlute.label>
+<PolarisWhiteFlute.label>белая флейта</PolarisWhiteFlute.label>
                     <!-- combat chip -->
-<PolarisCombatChip.label>combat chip</PolarisCombatChip.label>
+<PolarisCombatChip.label>боевой чип</PolarisCombatChip.label>
                           <!-- A universal combat chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode. -->
-<PolarisCombatChip.description>A universal combat chip that have the ability to enhance any aspects of the user. Using a converter will activate the tactical chip and also change its mode.</PolarisCombatChip.description>
+<PolarisCombatChip.description>Универсальный боевой чип, обладающий способностью улучшать любые аспекты пользователя. Использование преобразователя активирует тактический чип, а также изменит его режим.</PolarisCombatChip.description>
                              <!-- converter(planed to remove) -->
-<PolarisCombatChipConverter.label>converter(planed to remove)</PolarisCombatChipConverter.label>
+<PolarisCombatChipConverter.label>конвертер(planed to remove)</PolarisCombatChipConverter.label>
                                    <!-- A tactical chip converter to convert one's combat chip installed in someone's head. The converter will activate and convert the chip mode to the one recorded in the converter. It is reusable. -->
-<PolarisCombatChipConverter.description>A tactical chip converter to convert one's combat chip installed in someone's head. The converter will activate and convert the chip mode to the one recorded in the converter. It is reusable.</PolarisCombatChipConverter.description>
+<PolarisCombatChipConverter.description>Конвертер тактических чипов для преобразования боевого чипа, установленного в чьей-то голове. Конвертер активирует и преобразует режим чипа в тот, который записан в конвертере. Он пригоден для повторного использования.</PolarisCombatChipConverter.description>
                                                   <!-- Use converter -->
 <PolarisCombatChipConverter.comps.Comp_Usable.useLabel>Use converter</PolarisCombatChipConverter.comps.Comp_Usable.useLabel>
                        <!-- potent healing potion -->
-<PolarisHealingPotion.label>potent healing potion</PolarisHealingPotion.label>
+<PolarisHealingPotion.label>мощное целебное зелье</PolarisHealingPotion.label>
                              <!-- A quick recovery and healing potion that automatically heals wounds. The effect of this potion are very powerful. -->
-<PolarisHealingPotion.description>A quick recovery and healing potion that automatically heals wounds. The effect of this potion are very powerful.</PolarisHealingPotion.description>
+<PolarisHealingPotion.description>Зелье быстрого восстановления и заживления, которое автоматически заживляет раны. Эффект этого зелья очень мощное.</PolarisHealingPotion.description>
                                      <!-- Fluid, Processed -->
 <PolarisHealingPotion.ingestible.foodType>Fluid, Processed</PolarisHealingPotion.ingestible.foodType>
                                                 <!-- Drink {0} -->
-<PolarisHealingPotion.ingestible.ingestCommandString>Drink {0}</PolarisHealingPotion.ingestible.ingestCommandString>
+<PolarisHealingPotion.ingestible.ingestCommandString>Выпить {0}</PolarisHealingPotion.ingestible.ingestCommandString>
                                                <!-- Drinking {0}. -->
-<PolarisHealingPotion.ingestible.ingestReportString>Drinking {0}.</PolarisHealingPotion.ingestible.ingestReportString>
+<PolarisHealingPotion.ingestible.ingestReportString>Пьет {0}.</PolarisHealingPotion.ingestible.ingestReportString>
                     <!-- combined antibiotic -->
-<PolarisAntibiotic.label>combined antibiotic</PolarisAntibiotic.label>
+<PolarisAntibiotic.label>комбинированный антибиотик</PolarisAntibiotic.label>
                           <!-- A combination of multiple antibiotics that can cure most common diseases. -->
-<PolarisAntibiotic.description>A combination of multiple antibiotics that can cure most common diseases.</PolarisAntibiotic.description>
+<PolarisAntibiotic.description>Комбинация нескольких антибиотиков, которые могут вылечить большинство распространенных заболеваний.</PolarisAntibiotic.description>
                                              <!-- Take {0} -->
 <PolarisAntibiotic.ingestible.ingestCommandString>Take {0}</PolarisAntibiotic.ingestible.ingestCommandString>
                                             <!-- Taking {0}. -->
 <PolarisAntibiotic.ingestible.ingestReportString>Taking {0}.</PolarisAntibiotic.ingestible.ingestReportString>
                             <!-- receptor antagonist -->
-<PolarisReceptorAntagonist.label>receptor antagonist</PolarisReceptorAntagonist.label>
+<PolarisReceptorAntagonist.label>блокиратор рецепторов</PolarisReceptorAntagonist.label>
                                   <!-- The receptor antagonist is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time. -->
-<PolarisReceptorAntagonist.description>The receptor antagonist is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time.</PolarisReceptorAntagonist.description>
+<PolarisReceptorAntagonist.description>Блокиравтор рецепторов - это лекарственное средство, которое блокирует потребность в препаратах, связываясь с любым лекарственным рецептором и блокируя его, а не активируя его подобно наркотику. Таким образом, этот препарат удовлетворит химические потребности и в то же время облегчит наркотическую зависимость.</PolarisReceptorAntagonist.description>
                                                      <!-- Take {0} -->
 <PolarisReceptorAntagonist.ingestible.ingestCommandString>Take {0}</PolarisReceptorAntagonist.ingestible.ingestCommandString>
                                                     <!-- Taking {0}. -->
 <PolarisReceptorAntagonist.ingestible.ingestReportString>Taking {0}.</PolarisReceptorAntagonist.ingestible.ingestReportString>
                   <!-- polaris restorer -->
-<PolarisRestorer.label>polaris restorer</PolarisRestorer.label>
+<PolarisRestorer.label>восстановитель Полярис</PolarisRestorer.label>
                         <!-- Mysterious drugs from the Polarisbloc that can free you from all sorts of bad situations. -->
-<PolarisRestorer.description>Mysterious drugs from the Polarisbloc that can free you from all sorts of bad situations.</PolarisRestorer.description>
+<PolarisRestorer.description>Таинственные лекарства от Полярис, которые могут избавить вас от всевозможных неприятных ситуаций.</PolarisRestorer.description>
                                            <!-- Inject {0} -->
 <PolarisRestorer.ingestible.ingestCommandString>Inject {0}</PolarisRestorer.ingestible.ingestCommandString>
                                           <!-- Injecting {0}. -->
 <PolarisRestorer.ingestible.ingestReportString>Injecting {0}.</PolarisRestorer.ingestible.ingestReportString>
                         <!-- virtual net chip -->
-<PolarisVirtualNetChip.label>virtual net chip</PolarisVirtualNetChip.label>
+<PolarisVirtualNetChip.label>чип виртуальной Сети</PolarisVirtualNetChip.label>
                               <!-- A chip connected to a Virtual Network that can be used for entertainment whenever needed. Moreover, it will calm down the user if they ever have a mental breakdown. -->
-<PolarisVirtualNetChip.description>A chip connected to a Virtual Network that can be used for entertainment whenever needed. Moreover, it will calm down the user if they ever have a mental breakdown.</PolarisVirtualNetChip.description>
+<PolarisVirtualNetChip.description>Чип, подключенный к виртуальной сети, который при необходимости можно использовать для развлечений. Более того, это успокоит пользователя, если у него когда-нибудь случится психический срыв.</PolarisVirtualNetChip.description>
                    <!-- psionwire -->
-<PolarisPsionwire.label>psionwire</PolarisPsionwire.label>
+<PolarisPsionwire.label>псионический чип</PolarisPsionwire.label>
                          <!-- A chip capable of stimulating psionic abilities. Using this chip can enhance biological consciousness and fire resistance. -->
-<PolarisPsionwire.description>A chip capable of stimulating psionic abilities. Using this chip can enhance biological consciousness and fire resistance.</PolarisPsionwire.description>
+<PolarisPsionwire.description>Чип, способный стимулировать псионические способности. Использование этого чипа может повысить биологическое сознание и огнестойкость.</PolarisPsionwire.description>
                               <!-- psychic berserk pulser -->
-<PolarisPsychicBerserkPulser.label>psychic berserk pulser</PolarisPsychicBerserkPulser.label>
+<PolarisPsychicBerserkPulser.label>психический импульсник-берсерк</PolarisPsychicBerserkPulser.label>
                                     <!-- A one-use artifact that generate a strong psychic pulse that make all human go berserk (not included colonists). -->
-<PolarisPsychicBerserkPulser.description>A one-use artifact that generate a strong psychic pulse that make all human go berserk (not included colonists).</PolarisPsychicBerserkPulser.description>
+<PolarisPsychicBerserkPulser.description>Одноразовый артефакт, генерирующий сильный психический импульс, который заставляет всех людей сходить с ума (не включая колонистов)..</PolarisPsychicBerserkPulser.description>
                              <!-- orbital trader caller -->
-<PolarisOrbitalTraderCaller.label>orbital trader caller</PolarisOrbitalTraderCaller.label>
+<PolarisOrbitalTraderCaller.label>маяк орбитального торговца</PolarisOrbitalTraderCaller.label>
                                    <!-- It will launch a broadcast containing coordinate information and will direct the specified nearest orbital trader to the origin of the broadcast. -->
-<PolarisOrbitalTraderCaller.description>It will launch a broadcast containing coordinate information and will direct the specified nearest orbital trader to the origin of the broadcast.</PolarisOrbitalTraderCaller.description>
+<PolarisOrbitalTraderCaller.description>Он запускает широковещательную передачу, содержащую информацию о координатах, и направляет указанного ближайшего орбитального торговца к месту начала трансляции.</PolarisOrbitalTraderCaller.description>
                                                   <!-- Call {0} -->
 <PolarisOrbitalTraderCaller.comps.Comp_Usable.useLabel>Call {0}</PolarisOrbitalTraderCaller.comps.Comp_Usable.useLabel>
                                 <!-- traitreleaser -->
@@ -92,7 +92,7 @@ So, is life equal? Is it really good to exchange one's life for another person's
                                            <!-- Use momery rester to get {0} -->
 <PolarisMomeryRester.comps.Comp_Usable.useLabel>Use momery rester to get {0}</PolarisMomeryRester.comps.Comp_Usable.useLabel>
                      <!-- devil cookie -->
-<PolarisDevilCookie.label>devil cookie</PolarisDevilCookie.label>
+<PolarisDevilCookie.label>дьявольское печенье</PolarisDevilCookie.label>
                            <!-- Would you bargain with the devil just because you are hungry?
 
 This is a mysterious cookie and no one knows how it appeared in the world. And it will not vanish even once eaten.
