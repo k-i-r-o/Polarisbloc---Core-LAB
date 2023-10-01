@@ -2,8 +2,8 @@
 <LanguageData>
 <!--/Defs/TraderKindDefs/TraderKinds_Orbital_Polarisbloc.xml-->
                       <!-- distributor(Polarisbloc) -->
-<Orbital_Polarisbloc.label>distributor(Polarisbloc)</Orbital_Polarisbloc.label>
+<Orbital_Polarisbloc.label>торговец (Полярис)</Orbital_Polarisbloc.label>
                      <!-- aid trader -->
-<Orbital_PolarisAid.label>aid trader</Orbital_PolarisAid.label>
+<Orbital_PolarisAid.label>торговец товарами мед.помощи</Orbital_PolarisAid.label>
 
 </LanguageData>
