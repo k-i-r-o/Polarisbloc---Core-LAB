@@ -2,11 +2,11 @@
 <LanguageData>
 <!--/Defs/ThingDefs/Polaris_Items.xml-->
                    <!-- cartridge -->
-<PolarisCartridge.label>cartridge</PolarisCartridge.label>
+<PolarisCartridge.label>картридж</PolarisCartridge.label>
                          <!-- The cartridge can be worn by a pawn and protects the wearer from a certain death. The wearer will be resurrected immediatly upon death. Administered to a corpse, the cartridge will repair and kickstart the body back to life.
 
 So, is life equal? Is it really good to exchange one's life for another person's life? -->
-<PolarisCartridge.description>The cartridge can be worn by a pawn and protects the wearer from a certain death. The wearer will be resurrected immediatly upon death. Administered to a corpse, the cartridge will repair and kickstart the body back to life.\n\nSo, is life equal? Is it really good to exchange one's life for another person's life?</PolarisCartridge.description>
+<PolarisCartridge.description>Картридж может быть надет пешкой и защищает владельца от неминуемой смерти. Владелец будет воскрешен сразу же после смерти. Введенный в организм трупа, картридж восстановит организм и вернет его к жизни.\n\n Итак, равна ли жизнь? Действительно ли хорошо обменивать свою жизнь на жизнь другого человека?</PolarisCartridge.description>
                                         <!-- Use cartridge -->
 <PolarisCartridge.comps.Comp_Usable.useLabel>Use cartridge</PolarisCartridge.comps.Comp_Usable.useLabel>
                         <!-- Bondorudo's diary -->

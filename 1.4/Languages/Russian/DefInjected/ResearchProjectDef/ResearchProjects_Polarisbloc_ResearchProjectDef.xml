@@ -2,65 +2,65 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/ResearchProjects_Polarisbloc.xml-->
                         <!-- polarisbloc archives copy -->
-<PolarisSecretArchives.label>polarisbloc archives copy</PolarisSecretArchives.label>
+<PolarisSecretArchives.label>копия архивов Полярис</PolarisSecretArchives.label>
                               <!-- Some special test records were learned from Polarisbloc, maybe it will help us. -->
-<PolarisSecretArchives.description>Some special test records were learned from Polarisbloc, maybe it will help us.</PolarisSecretArchives.description>
+<PolarisSecretArchives.description>Из архивов Полярис были извлечены некоторые специальные тестовые записи, возможно, это поможет нам.</PolarisSecretArchives.description>
                      <!-- drug formula -->
-<PolarisDrugFormula.label>drug formula</PolarisDrugFormula.label>
+<PolarisDrugFormula.label>лекарственная формула</PolarisDrugFormula.label>
                            <!-- This project has records on how to make some medicines. -->
-<PolarisDrugFormula.description>This project has records on how to make some medicines.</PolarisDrugFormula.description>
+<PolarisDrugFormula.description>В этом проекте есть записи о том, как изготавливать некоторые лекарства.</PolarisDrugFormula.description>
                               <!-- antibiotic production -->
-<PolarisAntibioticProduction.label>antibiotic production</PolarisAntibioticProduction.label>
+<PolarisAntibioticProduction.label>производство антибиотиков</PolarisAntibioticProduction.label>
                                     <!-- Learn to produce the combined antibiotic. -->
-<PolarisAntibioticProduction.description>Learn to produce the combined antibiotic.</PolarisAntibioticProduction.description>
+<PolarisAntibioticProduction.description>Научитесь производить комбинированный антибиотик.</PolarisAntibioticProduction.description>
                                  <!-- healing potion production -->
-<PolarisHealingPotionProduction.label>healing potion production</PolarisHealingPotionProduction.label>
+<PolarisHealingPotionProduction.label>производство целебных зелий</PolarisHealingPotionProduction.label>
                                        <!-- Learn to produce the healing potion. -->
-<PolarisHealingPotionProduction.description>Learn to produce the healing potion.</PolarisHealingPotionProduction.description>
+<PolarisHealingPotionProduction.description>Научись изготавливать целебное зелье.</PolarisHealingPotionProduction.description>
                                       <!-- receptor antagonist production -->
-<PolarisReceptorAntagonistProduction.label>receptor antagonist production</PolarisReceptorAntagonistProduction.label>
+<PolarisReceptorAntagonistProduction.label>изготовление блокиратора рецепторов</PolarisReceptorAntagonistProduction.label>
                                             <!-- Learn how to produce the receptor antagonist.\This is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time. -->
-<PolarisReceptorAntagonistProduction.description>Learn how to produce the receptor antagonist.\This is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time.</PolarisReceptorAntagonistProduction.description>
+<PolarisReceptorAntagonistProduction.description>Узнайте, как изготавливать блокиратор рецепторов. Это лекарственное средство, которое блокирует потребность в препаратах, связываясь с любым рецептором и блокируя его, а не активируя его как агонист. Таким образом, этот препарат удовлетворит химические потребности и в то же время облегчит наркотическую зависимость.</PolarisReceptorAntagonistProduction.description>
                          <!-- surgical program -->
-<PolarisSurgicalProgram.label>surgical program</PolarisSurgicalProgram.label>
+<PolarisSurgicalProgram.label>хирургическая программа</PolarisSurgicalProgram.label>
                                <!-- This project recorded some special surgeries. -->
-<PolarisSurgicalProgram.description>This project recorded some special surgeries.</PolarisSurgicalProgram.description>
+<PolarisSurgicalProgram.description>В этом проекте было записано несколько специальных операций.</PolarisSurgicalProgram.description>
                             <!-- trans gender surgery -->
-<PolarisTransGenderSurgery.label>trans gender surgery</PolarisTransGenderSurgery.label>
+<PolarisTransGenderSurgery.label>хирургия по смене пола</PolarisTransGenderSurgery.label>
                                   <!-- Learn how to perform trans gender surgery. -->
-<PolarisTransGenderSurgery.description>Learn how to perform trans gender surgery.</PolarisTransGenderSurgery.description>
+<PolarisTransGenderSurgery.description>Узнайте, как проводить операцию по смене пола.</PolarisTransGenderSurgery.description>
                           <!-- cure scars -->
-<PolarisCureScarsSurgery.label>cure scars</PolarisCureScarsSurgery.label>
+<PolarisCureScarsSurgery.label>лечение шрамов</PolarisCureScarsSurgery.label>
                                 <!-- Learn how to cure scars and old wounds. -->
-<PolarisCureScarsSurgery.description>Learn how to cure scars and old wounds.</PolarisCureScarsSurgery.description>
+<PolarisCureScarsSurgery.description>Узнайте, как вылечить шрамы и старые раны.</PolarisCureScarsSurgery.description>
                                    <!-- restore missing body part -->
-<PolarisRestoreMissingPartSurgery.label>restore missing body part</PolarisRestoreMissingPartSurgery.label>
+<PolarisRestoreMissingPartSurgery.label>восстановление недостающих частей тела</PolarisRestoreMissingPartSurgery.label>
                                          <!-- Learn how to restore a missing body part, organ or bone. -->
-<PolarisRestoreMissingPartSurgery.description>Learn how to restore a missing body part, organ or bone.</PolarisRestoreMissingPartSurgery.description>
+<PolarisRestoreMissingPartSurgery.description>Узнайте, как восстановить отсутствующую часть тела, орган или кость.</PolarisRestoreMissingPartSurgery.description>
                            <!-- longevity research -->
-<PolarisLongevityResearch.label>longevity research</PolarisLongevityResearch.label>
+<PolarisLongevityResearch.label>исследования долголетия</PolarisLongevityResearch.label>
                                  <!-- Learn how to manipulate cells biological age. With this knowledge, manipulate the biological age of any living creature via a complex yet simple surgery. -->
-<PolarisLongevityResearch.description>Learn how to manipulate cells biological age. With this knowledge, manipulate the biological age of any living creature via a complex yet simple surgery.</PolarisLongevityResearch.description>
+<PolarisLongevityResearch.description>Узнайте, как манипулировать биологическим возрастом клеток. Обладая этими знаниями, можно манипулировать биологическим возрастом любого живого существа с помощью простой операции.</PolarisLongevityResearch.description>
                         <!-- implants remove -->
-<PolarisRemoveImplants.label>implants remove</PolarisRemoveImplants.label>
+<PolarisRemoveImplants.label>удаление имплантатов</PolarisRemoveImplants.label>
                               <!-- Learn how to remove implants in human's body. -->
-<PolarisRemoveImplants.description>Learn how to remove implants in human's body.</PolarisRemoveImplants.description>
+<PolarisRemoveImplants.description>Узнайте, как удалять имплантаты из тела человека.</PolarisRemoveImplants.description>
                    <!-- psionwire -->
-<PolarisPsionwire.label>psionwire</PolarisPsionwire.label>
+<PolarisPsionwire.label>псионический чип</PolarisPsionwire.label>
                          <!-- Learn how to make psionwire. -->
-<PolarisPsionwire.description>Learn how to make psionwire.</PolarisPsionwire.description>
+<PolarisPsionwire.description>Узнайте как изготавливать псионические чипы.</PolarisPsionwire.description>
                         <!-- extract ability -->
-<PolarisExtractAbility.label>extract ability</PolarisExtractAbility.label>
+<PolarisExtractAbility.label>извлечение способностей</PolarisExtractAbility.label>
                               <!-- Learn how to use a psytrainer to extract ability on pawn's brain. -->
-<PolarisExtractAbility.description>Learn how to use a psytrainer to extract ability on pawn's brain.</PolarisExtractAbility.description>
+<PolarisExtractAbility.description>Узнайте, как использовать пситренинг для извлечения способностей из мозга.</PolarisExtractAbility.description>
                        <!-- special device -->
-<PolarisSpecialDevice.label>special device</PolarisSpecialDevice.label>
+<PolarisSpecialDevice.label>специальное устройство</PolarisSpecialDevice.label>
                              <!-- This project recorded some special devices. -->
-<PolarisSpecialDevice.description>This project recorded some special devices.</PolarisSpecialDevice.description>
+<PolarisSpecialDevice.description>В этом проекте были записаны некоторые специальные устройства.</PolarisSpecialDevice.description>
                     <!-- thermostat -->
-<PolarisThermostat.label>thermostat</PolarisThermostat.label>
+<PolarisThermostat.label>термостат</PolarisThermostat.label>
                           <!-- Learn how to build a polarisbloc thermostat. -->
-<PolarisThermostat.description>Learn how to build a polarisbloc thermostat.</PolarisThermostat.description>
+<PolarisThermostat.description>Узнайте, как собрать термостат Полярис.</PolarisThermostat.description>
                                  <!-- traitreleaser production -->
 <PolarisTraitreleaserProduction.label>traitreleaser production</PolarisTraitreleaserProduction.label>
                                        <!-- Learn to product traitreleaser mech serum.A one-use super-dose of mechanites tuned to gain a specific trait.
@@ -68,9 +68,9 @@
 You could product traitreleaser on drug lab. -->
 <PolarisTraitreleaserProduction.description>Learn to product traitreleaser mech serum.A one-use super-dose of mechanites tuned to gain a specific trait.\n\nYou could product traitreleaser on drug lab.</PolarisTraitreleaserProduction.description>
                               <!-- persona weapons adjust -->
-<PolarisBladelinkTraitAdjust.label>persona weapons adjust</PolarisBladelinkTraitAdjust.label>
+<PolarisBladelinkTraitAdjust.label>настройка персонального оружия</PolarisBladelinkTraitAdjust.label>
                                     <!-- Learn to adjust the traits on persona weapons, you can put a persona weapon on fabrication bench to do it. -->
-<PolarisBladelinkTraitAdjust.description>Learn to adjust the traits on persona weapons, you can put a persona weapon on fabrication bench to do it.</PolarisBladelinkTraitAdjust.description>
+<PolarisBladelinkTraitAdjust.description>Научитесь настраивать характеристики персонального оружия, для этого вы можете поместить персональное оружие на стенд для изготовления.</PolarisBladelinkTraitAdjust.description>
                             <!-- ideo code production -->
 <PolarisIdeoCodeProduction.label>ideo code production</PolarisIdeoCodeProduction.label>
                                   <!-- Learn to product ideo code mech serum.A one-use super-dose of mechanites tuned to convert ideo certainty.
@@ -78,23 +78,23 @@ You could product traitreleaser on drug lab. -->
 You could product traitreleaser on drug lab. -->
 <PolarisIdeoCodeProduction.description>Learn to product ideo code mech serum.A one-use super-dose of mechanites tuned to convert ideo certainty.\n\nYou could product traitreleaser on drug lab.</PolarisIdeoCodeProduction.description>
                       <!-- mending shelf -->
-<PolarisMendingShelf.label>mending shelf</PolarisMendingShelf.label>
+<PolarisMendingShelf.label>ремонтный стенд</PolarisMendingShelf.label>
                             <!-- Learn to build a special shelf to mend some damaged items. -->
-<PolarisMendingShelf.description>Learn to build a special shelf to mend some damaged items.</PolarisMendingShelf.description>
+<PolarisMendingShelf.description>Научитесь сооружать специальные стенды, для ремонта некоторых поврежденных предметов.</PolarisMendingShelf.description>
                 <!-- polaris shield tech -->
-<PolarisShield.label>polaris shield tech</PolarisShield.label>
+<PolarisShield.label>технология защиты Полярис</PolarisShield.label>
                       <!-- Learn how to craft polaris - II shield belt. -->
-<PolarisShield.description>Learn how to craft polaris - II shield belt.</PolarisShield.description>
+<PolarisShield.description>Узнайте, как изготовливать защитный пояс Полярис - II.</PolarisShield.description>
                                  <!-- repairer nano haze -->
-<PolarisNanoRepairHazeGenerator.label>repairer nano haze</PolarisNanoRepairHazeGenerator.label>
+<PolarisNanoRepairHazeGenerator.label>ремонтные наномашины</PolarisNanoRepairHazeGenerator.label>
                                        <!-- A device that generates special nanomachines. It creates nanobots that can self-proliferate and actively repair damaged objects nearby. -->
-<PolarisNanoRepairHazeGenerator.description>A device that generates special nanomachines. It creates nanobots that can self-proliferate and actively repair damaged objects nearby.</PolarisNanoRepairHazeGenerator.description>
+<PolarisNanoRepairHazeGenerator.description>Устройство, которое генерирует специальные наномашины. Оно создает наноботов, которые могут самостоятельно размножаться и активно восстанавливать поврежденные объекты поблизости.</PolarisNanoRepairHazeGenerator.description>
                                    <!-- cartridge -->
-<ResearchProject_PolarisCartridge.label>cartridge</ResearchProject_PolarisCartridge.label>
+<ResearchProject_PolarisCartridge.label>картридж</ResearchProject_PolarisCartridge.label>
                                          <!-- The cartridge will resurrect the wearer if they ever die. So, is life equal? Is it really good to exchange one's life for another person's life?
 (This is a thing gained by surgery.)
 
 Tip:You can only get this technology by unscrambling Bondorudo's diary. -->
-<ResearchProject_PolarisCartridge.description>The cartridge will resurrect the wearer if they ever die. So, is life equal? Is it really good to exchange one's life for another person's life?\n(This is a thing gained by surgery.)\n\nTip:You can only get this technology by unscrambling Bondorudo's diary.</ResearchProject_PolarisCartridge.description>
+<ResearchProject_PolarisCartridge.description>Картридж воскресит владельца, если он когда-нибудь умрет.(Это достигается хирургическим путем.)\n\nПодсказка: Вы можете получить эту технологию, только расшифровав дневник Бондорудо.</ResearchProject_PolarisCartridge.description>
 
 </LanguageData>

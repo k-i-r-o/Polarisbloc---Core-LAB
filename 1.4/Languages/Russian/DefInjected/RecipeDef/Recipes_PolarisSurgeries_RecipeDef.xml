@@ -68,10 +68,10 @@
                                          <!-- Administering ideo code mech serum. -->
 <PolarisAdministerMechSerumIdeoCode.jobString>Administering ideo code mech serum.</PolarisAdministerMechSerumIdeoCode.jobString>
                         <!-- extract ability -->
-<PolarisExtractAbility.label>extract ability</PolarisExtractAbility.label>
+<PolarisExtractAbility.label>извлечь способность</PolarisExtractAbility.label>
                               <!-- Use a psytrainer to extract ability on pawn's brain. -->
-<PolarisExtractAbility.description>Use a psytrainer to extract ability on pawn's brain.</PolarisExtractAbility.description>
+<PolarisExtractAbility.description>Используйте пситренинг, чтобы извлечь способность из мозга.</PolarisExtractAbility.description>
                             <!-- extracting ability. -->
-<PolarisExtractAbility.jobString>extracting ability.</PolarisExtractAbility.jobString>
+<PolarisExtractAbility.jobString>извлечение способности.</PolarisExtractAbility.jobString>
 
 </LanguageData>

@@ -2,10 +2,10 @@
 <LanguageData>
 <!--/Defs/ThingDefs/Apparel_PolarisShieldBelt_II.xml-->
                                <!-- polaris - II shield belt -->
-<Apparel_PolarisShieldBelt_II.label>polaris - II shield belt</Apparel_PolarisShieldBelt_II.label>
+<Apparel_PolarisShieldBelt_II.label>защитный пояс Полярис - II</Apparel_PolarisShieldBelt_II.label>
                                      <!-- The publicly available version of the Polaris shield belt has limited performance. The improved energy radiation method enables the wearer to use the gun to attack externally and provide protection when attacked at close quarters. -->
-<Apparel_PolarisShieldBelt_II.description>The publicly available version of the Polaris shield belt has limited performance. The improved energy radiation method enables the wearer to use the gun to attack externally and provide protection when attacked at close quarters.</Apparel_PolarisShieldBelt_II.description>
+<Apparel_PolarisShieldBelt_II.description>Общедоступная версия защитного пояса Полярис обладает ограниченными эксплуатационными характеристиками. Усовершенствованный метод энергетического излучения позволяет владельцу использовать оружие для внешней атаки и обеспечивает защиту при нападении с близкого расстояния.</Apparel_PolarisShieldBelt_II.description>
                                                           <!-- Child, Adult -->
-<Apparel_PolarisShieldBelt_II.apparel.developmentalStageFilter>Child, Adult</Apparel_PolarisShieldBelt_II.apparel.developmentalStageFilter>
+<Apparel_PolarisShieldBelt_II.apparel.developmentalStageFilter>Ребенок, Взрослый</Apparel_PolarisShieldBelt_II.apparel.developmentalStageFilter>
 
 </LanguageData>
