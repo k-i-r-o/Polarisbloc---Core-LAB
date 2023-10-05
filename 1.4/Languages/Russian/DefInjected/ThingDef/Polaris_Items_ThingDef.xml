@@ -80,9 +80,9 @@ So, is life equal? Is it really good to exchange one's life for another person's
                                                   <!-- Call {0} -->
 <PolarisOrbitalTraderCaller.comps.Comp_Usable.useLabel>Call {0}</PolarisOrbitalTraderCaller.comps.Comp_Usable.useLabel>
                                 <!-- traitreleaser -->
-<PolarisMechSerumTraitreleaser.label>traitreleaser</PolarisMechSerumTraitreleaser.label>
+<PolarisMechSerumTraitreleaser.label>средство для высвобождения признаков</PolarisMechSerumTraitreleaser.label>
                                       <!-- A one-use super-dose of mechanites tuned to gain a specific trait. The subject choose to get the recorded trait or remove a trait from them. By removing a trait, the mechanites will record it and replace the pre-existing trait. However, this feature is only feasible 3 times. -->
-<PolarisMechSerumTraitreleaser.description>A one-use super-dose of mechanites tuned to gain a specific trait. The subject choose to get the recorded trait or remove a trait from them. By removing a trait, the mechanites will record it and replace the pre-existing trait. However, this feature is only feasible 3 times.</PolarisMechSerumTraitreleaser.description>
+<PolarisMechSerumTraitreleaser.description>Одноразовая сверхдоза механитов, настроенная на получение определенной характеристики. Испытуемый выбирает, получить ли записанный признак или удалить из него какой-либо признак. Удалив признак, механиты запишут его и заменят ранее существовавший признак. Однако эта функция выполнима только 3 раза.</PolarisMechSerumTraitreleaser.description>
                                                      <!-- Use traitreleaser mech serum to get {0} -->
 <PolarisMechSerumTraitreleaser.comps.Comp_Usable.useLabel>Use traitreleaser mech serum to get {0}</PolarisMechSerumTraitreleaser.comps.Comp_Usable.useLabel>
                       <!-- momery rester -->
@@ -99,7 +99,7 @@ This is a mysterious cookie and no one knows how it appeared in the world. And i
 
 According to the records of the researcher from Polarisbloc, this cookie will take some life force from who ate it. Maybe this was the reason why it could feed the hunger fully.
 
---&amp;lt;No.666 file of Polarisbloc&amp;gt; #public version -->
+-&amp;lt;No.666 file of Polarisbloc&amp;gt; #public version -->
 <PolarisDevilCookie.description>Would you bargain with the devil just because you are hungry?\n\nThis is a mysterious cookie and no one knows how it appeared in the world. And it will not vanish even once eaten.\n\nAccording to the records of the researcher from Polarisbloc, this cookie will take some life force from who ate it. Maybe this was the reason why it could feed the hunger fully.\n\n--&amp;lt;No.666 file of Polarisbloc&amp;gt; #public version</PolarisDevilCookie.description>
                  <!-- void key -->
 <PolarisVoidKey.label>void key</PolarisVoidKey.label>
@@ -111,7 +111,7 @@ We tried to use the Proj.013"cartridge" to do this, but it failed.
 Some additional attemps were made but all failed, even when we used living subjects. All of them couldn't provide the life force and power needed to resurrect the lost soul.
 Finally, we had no choice but to use the Philosopher's stone to get our colleague back (although he was a little bit unconscious).
 
---&amp;lt;No.193 file of Polarisbloc&amp;gt; #public version -->
+-&amp;lt;No.193 file of Polarisbloc&amp;gt; #public version -->
 <PolarisVoidKey.description>Project.193\n\nAt first, we made something that can link the soul of the dead, although the dead one must be in our knowledge.\nAnd then we thought, why can't we resurrect the lost soul?\nWe tried to use the Proj.013"cartridge" to do this, but it failed.\nSome additional attemps were made but all failed, even when we used living subjects. All of them couldn't provide the life force and power needed to resurrect the lost soul.\nFinally, we had no choice but to use the Philosopher's stone to get our colleague back (although he was a little bit unconscious).\n\n--&amp;lt;No.193 file of Polarisbloc&amp;gt; #public version</PolarisVoidKey.description>
                                       <!-- Use void key -->
 <PolarisVoidKey.comps.Comp_Usable.useLabel>Use void key</PolarisVoidKey.comps.Comp_Usable.useLabel>
