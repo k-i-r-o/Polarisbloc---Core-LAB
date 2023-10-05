@@ -50,17 +50,17 @@ So, is life equal? Is it really good to exchange one's life for another person's
                                   <!-- The receptor antagonist is a drug that blocks drugs needs by binding to and blocking any drugs receptor rather than activating it like an agonist. So this drug will satisfy chemical needs, and ease the drug addiction at the same time. -->
 <PolarisReceptorAntagonist.description>Блокиравтор рецепторов - это лекарственное средство, которое блокирует потребность в препаратах, связываясь с любым лекарственным рецептором и блокируя его, а не активируя его подобно наркотику. Таким образом, этот препарат удовлетворит химические потребности и в то же время облегчит наркотическую зависимость.</PolarisReceptorAntagonist.description>
                                                      <!-- Take {0} -->
-<PolarisReceptorAntagonist.ingestible.ingestCommandString>Take {0}</PolarisReceptorAntagonist.ingestible.ingestCommandString>
+<PolarisReceptorAntagonist.ingestible.ingestCommandString>Принять {0}</PolarisReceptorAntagonist.ingestible.ingestCommandString>
                                                     <!-- Taking {0}. -->
-<PolarisReceptorAntagonist.ingestible.ingestReportString>Taking {0}.</PolarisReceptorAntagonist.ingestible.ingestReportString>
+<PolarisReceptorAntagonist.ingestible.ingestReportString>Принимает {0}.</PolarisReceptorAntagonist.ingestible.ingestReportString>
                   <!-- polaris restorer -->
 <PolarisRestorer.label>восстановитель Полярис</PolarisRestorer.label>
                         <!-- Mysterious drugs from the Polarisbloc that can free you from all sorts of bad situations. -->
 <PolarisRestorer.description>Таинственные лекарства от Полярис, которые могут избавить вас от всевозможных неприятных ситуаций.</PolarisRestorer.description>
                                            <!-- Inject {0} -->
-<PolarisRestorer.ingestible.ingestCommandString>Inject {0}</PolarisRestorer.ingestible.ingestCommandString>
+<PolarisRestorer.ingestible.ingestCommandString>Ввести {0}</PolarisRestorer.ingestible.ingestCommandString>
                                           <!-- Injecting {0}. -->
-<PolarisRestorer.ingestible.ingestReportString>Injecting {0}.</PolarisRestorer.ingestible.ingestReportString>
+<PolarisRestorer.ingestible.ingestReportString>Вводит {0}.</PolarisRestorer.ingestible.ingestReportString>
                         <!-- virtual net chip -->
 <PolarisVirtualNetChip.label>чип виртуальной Сети</PolarisVirtualNetChip.label>
                               <!-- A chip connected to a Virtual Network that can be used for entertainment whenever needed. Moreover, it will calm down the user if they ever have a mental breakdown. -->
@@ -78,7 +78,7 @@ So, is life equal? Is it really good to exchange one's life for another person's
                                    <!-- It will launch a broadcast containing coordinate information and will direct the specified nearest orbital trader to the origin of the broadcast. -->
 <PolarisOrbitalTraderCaller.description>Он запускает широковещательную передачу, содержащую информацию о координатах, и направляет указанного ближайшего орбитального торговца к месту начала трансляции.</PolarisOrbitalTraderCaller.description>
                                                   <!-- Call {0} -->
-<PolarisOrbitalTraderCaller.comps.Comp_Usable.useLabel>Call {0}</PolarisOrbitalTraderCaller.comps.Comp_Usable.useLabel>
+<PolarisOrbitalTraderCaller.comps.Comp_Usable.useLabel>Вызвать {0}</PolarisOrbitalTraderCaller.comps.Comp_Usable.useLabel>
                                 <!-- traitreleaser -->
 <PolarisMechSerumTraitreleaser.label>средство для высвобождения признаков</PolarisMechSerumTraitreleaser.label>
                                       <!-- A one-use super-dose of mechanites tuned to gain a specific trait. The subject choose to get the recorded trait or remove a trait from them. By removing a trait, the mechanites will record it and replace the pre-existing trait. However, this feature is only feasible 3 times. -->
@@ -86,11 +86,11 @@ So, is life equal? Is it really good to exchange one's life for another person's
                                                      <!-- Use traitreleaser mech serum to get {0} -->
 <PolarisMechSerumTraitreleaser.comps.Comp_Usable.useLabel>Use traitreleaser mech serum to get {0}</PolarisMechSerumTraitreleaser.comps.Comp_Usable.useLabel>
                       <!-- momery rester -->
-<PolarisMomeryRester.label>momery rester</PolarisMomeryRester.label>
+<PolarisMomeryRester.label>измененитель предыстории</PolarisMomeryRester.label>
                             <!-- A one-use super-dose of mechanites tuned to change the subject's backstory into the recorded ones. -->
-<PolarisMomeryRester.description>A one-use super-dose of mechanites tuned to change the subject's backstory into the recorded ones.</PolarisMomeryRester.description>
+<PolarisMomeryRester.description>Одноразовая сверхдоза механизмов, настроенных на изменение предыстории объекта.</PolarisMomeryRester.description>
                                            <!-- Use momery rester to get {0} -->
-<PolarisMomeryRester.comps.Comp_Usable.useLabel>Use momery rester to get {0}</PolarisMomeryRester.comps.Comp_Usable.useLabel>
+<PolarisMomeryRester.comps.Comp_Usable.useLabel>Использовать {0}</PolarisMomeryRester.comps.Comp_Usable.useLabel>
                      <!-- devil cookie -->
 <PolarisDevilCookie.label>дьявольское печенье</PolarisDevilCookie.label>
                            <!-- Would you bargain with the devil just because you are hungry?
@@ -100,9 +100,9 @@ This is a mysterious cookie and no one knows how it appeared in the world. And i
 According to the records of the researcher from Polarisbloc, this cookie will take some life force from who ate it. Maybe this was the reason why it could feed the hunger fully.
 
 -&amp;lt;No.666 file of Polarisbloc&amp;gt; #public version -->
-<PolarisDevilCookie.description>Would you bargain with the devil just because you are hungry?\n\nThis is a mysterious cookie and no one knows how it appeared in the world. And it will not vanish even once eaten.\n\nAccording to the records of the researcher from Polarisbloc, this cookie will take some life force from who ate it. Maybe this was the reason why it could feed the hunger fully.\n\n--&amp;lt;No.666 file of Polarisbloc&amp;gt; #public version</PolarisDevilCookie.description>
+<PolarisDevilCookie.description>Стали бы вы заключать сделку с дьяволом только потому, что голодны? Это таинственное печенье, и никто не знает, как оно появилось в мире. И оно не исчезнет, даже будучи съеденным. Согласно записям исследователя из Палярис, это печенье заберет немного жизненной силы у того, кто его съел. Возможно, именно по этой причине оно может полностью утолить голод</PolarisDevilCookie.description>
                  <!-- void key -->
-<PolarisVoidKey.label>void key</PolarisVoidKey.label>
+<PolarisVoidKey.label>ключ пустоты</PolarisVoidKey.label>
                        <!-- Project.193
 
 At first, we made something that can link the soul of the dead, although the dead one must be in our knowledge.
@@ -112,21 +112,21 @@ Some additional attemps were made but all failed, even when we used living subje
 Finally, we had no choice but to use the Philosopher's stone to get our colleague back (although he was a little bit unconscious).
 
 -&amp;lt;No.193 file of Polarisbloc&amp;gt; #public version -->
-<PolarisVoidKey.description>Project.193\n\nAt first, we made something that can link the soul of the dead, although the dead one must be in our knowledge.\nAnd then we thought, why can't we resurrect the lost soul?\nWe tried to use the Proj.013"cartridge" to do this, but it failed.\nSome additional attemps were made but all failed, even when we used living subjects. All of them couldn't provide the life force and power needed to resurrect the lost soul.\nFinally, we had no choice but to use the Philosopher's stone to get our colleague back (although he was a little bit unconscious).\n\n--&amp;lt;No.193 file of Polarisbloc&amp;gt; #public version</PolarisVoidKey.description>
+<PolarisVoidKey.description>Проект.193 \n\n Сначала мы создали нечто, что может связать душу умершего. И тогда мы подумали, почему мы не можем воскресить потерянную душу? Мы попытались использовать для этого "картридж" Проект.013, но это не удалось. Было предпринято несколько дополнительных попыток, но все они провалились, даже когда мы использовали живых испытуемых. Все они не могли обеспечить жизненную силу и могущество, необходимые для воскрешения потерянной души. Наконец, у нас не было другого выбора, кроме как использовать философский камень, чтобы вернуть нашего коллегу (хотя он был немного без сознания)</PolarisVoidKey.description>
                                       <!-- Use void key -->
 <PolarisVoidKey.comps.Comp_Usable.useLabel>Use void key</PolarisVoidKey.comps.Comp_Usable.useLabel>
                  <!-- biocode decoder -->
-<PolarisDecoder.label>biocode decoder</PolarisDecoder.label>
+<PolarisDecoder.label>декодер биокода</PolarisDecoder.label>
                        <!-- A decoder to decode the biocode in the special weapon.
 It has a chance to change the biocode depends on the user's Intellectual level and the item quality.
 There is a chance that the recoder will destroy after used. Other, if a weapon could be coded, this decoder will also could code the biocode and never destroy. -->
-<PolarisDecoder.description>A decoder to decode the biocode in the special weapon.\nIt has a chance to change the biocode depends on the user's Intellectual level and the item quality.\nThere is a chance that the recoder will destroy after used. Other, if a weapon could be coded, this decoder will also could code the biocode and never destroy.</PolarisDecoder.description>
+<PolarisDecoder.description>Декодер для расшифровки биокода. Возможность изменения биокода зависит от интеллектуального уровня пользователя и качества товара. Существует вероятность того, что декодер разрушится после использования. Если оружие можно закодировать, этот декодер также сможет закодировать биокод.</PolarisDecoder.description>
                                       <!-- Use biocode decoder -->
 <PolarisDecoder.comps.Comp_Usable.useLabel>Use biocode decoder</PolarisDecoder.comps.Comp_Usable.useLabel>
                   <!-- ideo code mech serum -->
 <PolarisIdeoCode.label>ideo code mech serum</PolarisIdeoCode.label>
                         <!-- A one-use super-dose of mechanites tuned to convert ideo certainty. People could write their ideo's information in the code. When someone used it, if user's ideo as same as in code, their ideo certainty will be offset, else will be reduce. -->
-<PolarisIdeoCode.description>A one-use super-dose of mechanites tuned to convert ideo certainty. People could write their ideo's information in the code. When someone used it, if user's ideo as same as in code, their ideo certainty will be offset, else will be reduce.</PolarisIdeoCode.description>
+<PolarisIdeoCode.description>Одноразовая сверхдоза механизмов, настроенных на преобразование идеологической определенности.</PolarisIdeoCode.description>
                                                      <!-- Use {0} -->
 <PolarisIdeoCode.comps.Polarisbloc.Comp_IdeoCode.useLabel>Use {0}</PolarisIdeoCode.comps.Polarisbloc.Comp_IdeoCode.useLabel>
                                                           <!-- writable -->
