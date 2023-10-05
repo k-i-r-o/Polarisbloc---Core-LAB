@@ -62,11 +62,11 @@
                           <!-- Learn how to build a polarisbloc thermostat. -->
 <PolarisThermostat.description>Узнайте, как собрать термостат Полярис.</PolarisThermostat.description>
                                  <!-- traitreleaser production -->
-<PolarisTraitreleaserProduction.label>traitreleaser production</PolarisTraitreleaserProduction.label>
+<PolarisTraitreleaserProduction.label>средство для высвобождения признаков</PolarisTraitreleaserProduction.label>
                                        <!-- Learn to product traitreleaser mech serum.A one-use super-dose of mechanites tuned to gain a specific trait.
 
 You could product traitreleaser on drug lab. -->
-<PolarisTraitreleaserProduction.description>Learn to product traitreleaser mech serum.A one-use super-dose of mechanites tuned to gain a specific trait.\n\nYou could product traitreleaser on drug lab.</PolarisTraitreleaserProduction.description>
+<PolarisTraitreleaserProduction.description>Научитесь использовать сыворотку для высвобождения признаков. Одноразовая сверхдоза механитов, настроенная на получение определенного признака. Изготавливается в лаборатории лекарств.</PolarisTraitreleaserProduction.description>
                               <!-- persona weapons adjust -->
 <PolarisBladelinkTraitAdjust.label>настройка персонального оружия</PolarisBladelinkTraitAdjust.label>
                                     <!-- Learn to adjust the traits on persona weapons, you can put a persona weapon on fabrication bench to do it. -->
