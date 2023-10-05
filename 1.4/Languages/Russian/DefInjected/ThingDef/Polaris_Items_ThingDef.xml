@@ -114,7 +114,7 @@ Finally, we had no choice but to use the Philosopher's stone to get our colleagu
 -&amp;lt;No.193 file of Polarisbloc&amp;gt; #public version -->
 <PolarisVoidKey.description>Проект.193 \n\n Сначала мы создали нечто, что может связать душу умершего. И тогда мы подумали, почему мы не можем воскресить потерянную душу? Мы попытались использовать для этого "картридж" Проект.013, но это не удалось. Было предпринято несколько дополнительных попыток, но все они провалились, даже когда мы использовали живых испытуемых. Все они не могли обеспечить жизненную силу и могущество, необходимые для воскрешения потерянной души. Наконец, у нас не было другого выбора, кроме как использовать философский камень, чтобы вернуть нашего коллегу (хотя он был немного без сознания)</PolarisVoidKey.description>
                                       <!-- Use void key -->
-<PolarisVoidKey.comps.Comp_Usable.useLabel>Use void key</PolarisVoidKey.comps.Comp_Usable.useLabel>
+<PolarisVoidKey.comps.Comp_Usable.useLabel>Использовать ключ пустоты</PolarisVoidKey.comps.Comp_Usable.useLabel>
                  <!-- biocode decoder -->
 <PolarisDecoder.label>декодер биокода</PolarisDecoder.label>
                        <!-- A decoder to decode the biocode in the special weapon.
@@ -122,7 +122,7 @@ It has a chance to change the biocode depends on the user's Intellectual level a
 There is a chance that the recoder will destroy after used. Other, if a weapon could be coded, this decoder will also could code the biocode and never destroy. -->
 <PolarisDecoder.description>Декодер для расшифровки биокода. Возможность изменения биокода зависит от интеллектуального уровня пользователя и качества товара. Существует вероятность того, что декодер разрушится после использования. Если оружие можно закодировать, этот декодер также сможет закодировать биокод.</PolarisDecoder.description>
                                       <!-- Use biocode decoder -->
-<PolarisDecoder.comps.Comp_Usable.useLabel>Use biocode decoder</PolarisDecoder.comps.Comp_Usable.useLabel>
+<PolarisDecoder.comps.Comp_Usable.useLabel>Использовать декодер биокода</PolarisDecoder.comps.Comp_Usable.useLabel>
                   <!-- ideo code mech serum -->
 <PolarisIdeoCode.label>ideo code mech serum</PolarisIdeoCode.label>
                         <!-- A one-use super-dose of mechanites tuned to convert ideo certainty. People could write their ideo's information in the code. When someone used it, if user's ideo as same as in code, their ideo certainty will be offset, else will be reduce. -->
